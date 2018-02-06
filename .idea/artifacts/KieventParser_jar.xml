@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="KieventParser:jar">
+    <output-path>E:/</output-path>
+    <root id="archive" name="KieventParser_jar.jar">
+      <element id="extracted-dir" path="E:/JavaUtils/jackson-annotations-2.8.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/JavaUtils/jackson-core-2.8.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/JavaUtils/jackson-databind-2.8.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/JavaUtils/jsoup-1.8.1.jar" path-in-jar="/" />
+      <element id="library" level="project" name="jackson-annotations-2.8.7" />
+      <element id="module-output" name="KieventParser" />
+      <element id="library" level="project" name="commons-net:commons-net:3.6" />
+    </root>
+  </artifact>
+</component>
