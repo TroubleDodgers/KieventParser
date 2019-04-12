@@ -24,7 +24,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.lance.logic.Main</mainClass>
+                            <mainClass>com.lance.kieventparser.logic.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
